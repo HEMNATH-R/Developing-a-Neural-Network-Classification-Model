@@ -195,4 +195,6 @@ print(f'Actual class for sample input: {label_encoder.inverse_transform([y_test[
 <img width="391" height="100" alt="image" src="https://github.com/user-attachments/assets/7a37d995-f980-4195-84a8-2d4162e4a593" />
 
 ## RESULT
-Include your result here
+
+Thus, To develop a neural network classification model for the given dataset is executed successfully.
+
